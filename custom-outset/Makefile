@@ -1,7 +1,7 @@
-PKGTITLE="outset-custom"
+PKGTITLE="outset-birc"
 PKGVERSION="1.0.0"
-PKGID=com.github.outset.custom
-PROJECT="outset-custom"
+PKGID=edu.uconn.birc.outset
+PROJECT="outset-birc"
 
 #################################################
 
